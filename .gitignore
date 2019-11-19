@@ -1,4 +1,5 @@
-**/*/.vscode
-**/*/*.classpath
-**/*/*.project
-**/*/*.settings
+**/.vscode
+**/*.classpath
+**/*.project
+**/*.settings
+**/.DS_Store
