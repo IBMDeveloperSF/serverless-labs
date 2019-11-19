@@ -18,7 +18,7 @@ IBM Cloud Functions provides:
 3. Install the Functions plugin - https://cloud.ibm.com/functions/learn/cli
 
 ## Step by Step lab
-In this lab, you’ll create three functions for doing some data manipulation of a string, and then tie them together in a sequence. Follow the instructions in [this pdf file](quicklab3-ibmdevelopersf.pdf) to complete this lab.
+In this lab, you’ll create three functions for doing some data manipulation of a string, and then tie them together in a sequence. You can follow the [instructions from the IBMCloud bootcamp](https://github.com/IBM-Cloud/openwhisk-workshops/tree/master/bootcamp/ex1.2%20-%20using%20action%20sequences). I am not repeating the instructions here as it is the same exercise.
 
 ## Intermediate command line labs
 If you want to practice more with the cli, you can follow the following labs
