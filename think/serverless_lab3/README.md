@@ -18,6 +18,8 @@ You will need an IBM Cloud Account. Either use your existing account, or create 
 ## Step by Step lab
 In this lab, you’ll create three functions for doing some data manipulation of a string, and then tie them together in a sequence. Follow the instructions in [this pdf file](quicklab3-ibmdevelopersf.pdf) to complete this lab.
 
+[Lab PDF](quicklab3-ibmdevelopersf.pdf)
+
 ## Command line labs
 If you want to use the `ibmcloud cli` and create actions from the command line, you can follow the following labs
 1. [Setting up the environment.](https://github.com/IBM-Cloud/openwhisk-workshops/tree/master/bootcamp/ex0%20-%20setting%20up%20development%20environment)
