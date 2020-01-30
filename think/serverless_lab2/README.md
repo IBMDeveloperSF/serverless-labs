@@ -22,6 +22,8 @@ You will need an IBM Cloud Account. Either use your existing account, or create 
 
 In this lab, you’ll create an IBM Cloud Functions action that takes an image URL as input, and returns some tags describing the content of the image. To get the tags, the action will interact with the Visual Recognition Service on IBM Cloud. Follow the instructions in [this pdf file](quicklab2-ibmdevelopersf.pdf) to complete this lab.
 
+[Lab PDF](quicklab2-ibmdevelopersf.pdf) 
+
 ## Command line labs
 
 If you want to use the `ibmcloud cli` and create actions from the command line, you can follow the following labs
