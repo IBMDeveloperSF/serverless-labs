@@ -20,6 +20,8 @@ IBM Cloud Functions provides:
 ## Step by Step lab
 In this lab, you’ll create three functions for doing some data manipulation of a string, and then tie them together in a sequence. You can follow the [instructions from the IBMCloud bootcamp](https://github.com/IBM-Cloud/openwhisk-workshops/tree/master/bootcamp/ex1.2%20-%20using%20action%20sequences). I am not repeating the instructions here as it is the same exercise.
 
+[Step by Step Lab CLI](https://github.com/IBM-Cloud/openwhisk-workshops/tree/master/bootcamp/ex1.2%20-%20using%20action%20sequences)
+
 ## Intermediate command line labs
 If you want to practice more with the cli, you can follow the following labs
 1. [Setting up the environment.](https://github.com/IBM-Cloud/openwhisk-workshops/tree/master/bootcamp/ex0%20-%20setting%20up%20development%20environment)
