@@ -1,4 +1,4 @@
-# IBM Cloud Functions and Apache OpenWhisk - Lab 2
+# IBM Cloud Functions and Apache OpenWhisk - Lab 2 - CLI TBD
 
 ## Introduction
 
@@ -15,17 +15,18 @@ IBM Cloud Functions provides:
 - The ability to easily chain together microservices to form workflows via composition.
 
 ## Prerequisites
-1. You will need an IBM Cloud Account. Either use your existing account, or create a new account by using the link provided in the workshop.
-2. Install IBM Cloud CLI - https://cloud.ibm.com/docs/cli/reference/bluemix_cli?topic=cloud-cli-install-ibmcloud-cli#shell_install
-3. Install the Functions plugin - https://cloud.ibm.com/functions/learn/cli
+
+You will need an IBM Cloud Account. Either use your existing account, or create a new account by using the link provided in the workshop.
 
 ## Lab steps
 
 In this lab, you’ll create an IBM Cloud Functions action that takes an image URL as input, and returns some tags describing the content of the image. To get the tags, the action will interact with the Visual Recognition Service on IBM Cloud. Follow the instructions in [this pdf file](quicklab2-ibmdevelopersf.pdf) to complete this lab.
 
+[Lab PDF](quicklab2-ibmdevelopersf.pdf) 
+
 ## Command line labs
 
-## Intermediate command line labs
-If you want to practice more with the cli, you can follow the following labs
+If you want to use the `ibmcloud cli` and create actions from the command line, you can follow the following labs
+
 1. [Setting up the environment.](https://github.com/IBM-Cloud/openwhisk-workshops/tree/master/bootcamp/ex0%20-%20setting%20up%20development%20environment)
 2. [Bundling NPM modules](https://github.com/IBM-Cloud/openwhisk-workshops/tree/master/bootcamp/ex1.3%20-%20bundling%20NPM%20modules)
